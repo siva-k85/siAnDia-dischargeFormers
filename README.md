@@ -6,6 +6,12 @@
 
 An AI-powered application for generating comprehensive, professional medical discharge summaries from structured patient data. This tool streamlines the documentation process for healthcare professionals while maintaining clinical accuracy.
 
+## 👥 Team
+
+- **Siva Komaragiri** (Andrew ID: skomarag)  
+- **Anu Subramanya** (Andrew ID: ahsubram)  
+- **India Etheridge** (Andrew ID: ietherid)
+
 ## 📋 Table of Contents
 
 - [Overview](#overview)
